@@ -1,5 +1,6 @@
 # HTML_PROJECT
 STUTURN Practice 4
+<hr>
 #This assignment is aimed at helping you practice all you have learned this week
 
 <b>My Favourite Meal</b>
